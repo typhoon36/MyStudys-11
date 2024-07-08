@@ -58,7 +58,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.aab
-*.unitypackage
+# *.unitypackage  # 이 줄을 주석 처리하거나 삭제하여 .unitypackage 파일을 GitHub에 업로드합니다.
 *.app
 
 # Crashlytics generated file
